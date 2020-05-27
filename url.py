@@ -1,6 +1,6 @@
 
 import  urllib.request
-url='http://www.zczy56.com'
+url='http://www.xxx.com'
 response= urllib.request.urlopen(url)
 print(response.read().decode())
 
